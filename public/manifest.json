@@ -1,6 +1,6 @@
 {
-  "name": "Haven",
-  "short_name": "Haven",
+  "name": "Lighthouse",
+  "short_name": "Lighthouse",
   "description": "Your faith small group, connected.",
   "start_url": "/",
   "display": "standalone",

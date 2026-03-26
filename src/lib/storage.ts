@@ -1,6 +1,6 @@
 import type { AppState, User, Group, Message, PrayerRequest, CheckIn } from './types';
 
-const KEY = 'haven_app';
+const KEY = 'lighthouse_app';
 
 function getState(): AppState {
   const raw = localStorage.getItem(KEY);

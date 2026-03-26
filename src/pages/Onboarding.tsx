@@ -30,7 +30,7 @@ export function Onboarding({ onComplete }: OnboardingProps) {
           <div className="w-20 h-20 rounded-3xl bg-[#1E3A5F] flex items-center justify-center mx-auto mb-6 shadow-lg">
             <span className="text-4xl">🏠</span>
           </div>
-          <h1 className="text-[#1E3A5F] text-3xl font-bold mb-2">Haven</h1>
+          <h1 className="text-[#1E3A5F] text-3xl font-bold mb-2">Lighthouse</h1>
           <p className="text-[#1E3A5F]/60 text-base mb-2">Your small group, connected.</p>
           <p className="text-[#1E3A5F]/40 text-sm mb-10 leading-relaxed">
             A private space for your small group to pray, share, and grow together.
@@ -117,7 +117,7 @@ export function Onboarding({ onComplete }: OnboardingProps) {
             disabled={!name.trim()}
             className="w-full bg-[#1E3A5F] text-white py-4 rounded-2xl font-semibold text-base disabled:opacity-30 shadow-md"
           >
-            Enter Haven
+            Enter Lighthouse
           </motion.button>
         </motion.div>
       )}

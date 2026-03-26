@@ -118,7 +118,7 @@ export function Profile() {
 
       {/* App info */}
       <div className="mt-10 text-center">
-        <p className="text-[#C9A853] text-lg font-bold tracking-tight">Haven</p>
+        <p className="text-[#C9A853] text-lg font-bold tracking-tight">Lighthouse</p>
         <p className="text-[#1E3A5F]/30 text-xs mt-0.5">Faith. Community. Growth.</p>
       </div>
     </div>
